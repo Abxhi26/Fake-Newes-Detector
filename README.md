@@ -1,6 +1,6 @@
 # 📰 Fake News Detection System
 
-## 🚀 Overview
+##  Overview
 
 This project is an intelligent **Fake News Detection System** that classifies news articles as **Real** or **Fake** using Machine Learning and Natural Language Processing (NLP) techniques.
 
@@ -8,22 +8,21 @@ The system also integrates **real-time news fetching** and provides **model expl
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Detect fake news using machine learning
 * Improve classification accuracy using preprocessing techniques
 * Provide explainability for predictions
 * Fetch and analyze real-time news articles
 
----
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming Language
+###  Programming Language
 
 * Python
 
-### 📚 Libraries & Tools
+###  Libraries & Tools
 
 * Scikit-learn (ML models)
 * Pandas & NumPy (Data processing)
@@ -35,7 +34,7 @@ The system also integrates **real-time news fetching** and provides **model expl
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -70,17 +69,17 @@ The system also integrates **real-time news fetching** and provides **model expl
 
 ---
 
-## 📊 Features
+## Features
 
-* ✅ Detect fake vs real news
-* ✅ Real-time news classification
-* ✅ Explainable predictions using LIME
-* ✅ Handles imbalanced datasets
-* ✅ Scalable and modular pipeline
+*  Detect fake vs real news
+*  Real-time news classification
+*  Explainable predictions using LIME
+*  Handles imbalanced datasets
+*  Scalable and modular pipeline
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fake-news-detection/
@@ -92,7 +91,7 @@ fake-news-detection/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone the Repository
 
@@ -112,50 +111,30 @@ pip install -r requirements.txt
 * Open `notebook.ipynb` in Jupyter or Colab
 * Execute all cells
 
----
-
-## 📈 Results
+Results
 
 * Achieved high accuracy using Logistic Regression
 * Improved performance with SMOTE
 * LIME provides clear explanations for predictions
 
----
-
-## 🔍 Example Use Case
+--- Example Use Case
 
 1. Input a news article or headline
 2. System processes and vectorizes the text
 3. Model predicts whether it's **Fake** or **Real**
 4. LIME explains which words influenced the prediction
 
----
-
-## 🧩 Future Enhancements
+ Future Enhancements
 
 * Add Deep Learning models (LSTM, BERT)
 * Deploy as a web application
 * Integrate speech-to-text for live news detection
 * Improve real-time streaming capabilities
 
----
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
+ Author
 
 **Abhiram Aravind**
 
----
-
-⭐ If you found this project useful, consider giving it a star!
+-
